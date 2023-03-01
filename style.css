@@ -1,0 +1,114 @@
+/* CSS Document */
+
+body{
+           background-color:rgba(255, 0, 0, 0);
+           background-image: url(https://static.vecteezy.com/ti/fotos-gratis/p1/6263904-fundo-abstrato-branco-pano-de-fundo-para-design-de-apresentacao-para-site-gratis-foto.jpg);
+           
+}
+
+h1{
+      font-size: 66px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      text-align: left;
+
+}
+
+
+h2{
+      color:rgb(151, 0, 0);
+      font-size: 30px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      text-align:center;
+}
+
+p {
+     margin-left:0px;
+     text-align:left;
+     font-size: 20px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+nav{ 
+      color: rgb(255, 255, 255);
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      margin-left: auto;
+      text-align: center;justify-content: baseline;
+      background-color: black;
+      line-height: 50px;
+      padding-inline-start: 50px;
+
+}
+div{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+}
+
+div1{
+      border: 44px;
+}
+
+#pr3{
+      border: solid 2px red;
+      width: 555px;
+      height: 30px;
+}
+
+#pr4{
+      border: solid 2px black;
+      width: 555px;
+      height: 30px;
+}
+
+#pr5{
+      border: solid 2px black;
+      width: 555px;
+      height: 30px;
+}
+
+#pr6{
+      border: solid 2px black;
+      width: 555px;
+      height: 30px;
+}
+
+#pr7{
+      border: solid 2px black;
+      width: 555px;
+      height: 30px;
+}
+
+#pr8{
+      border: solid 2px black;
+      width: 555px;
+      height: 30px;
+}
+
+#pr9{
+      border: solid 2px black;
+      width: 555px;
+      height: 30px;
+}
+
+#fausto{
+      text-align: center;
+      margin-top: -380px;     
+}
+
+#fausto3{
+      text-align: right;
+      margin-top: -480px;
+}
+
+#faust{
+      text-align: center;
+      text-align: justify;
+      margin-right: 600px;
+      margin-left: 600px;
+      margin-top: -380px;
+}
+
+footer{
+      margin-top: 200px
+}
